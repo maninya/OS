@@ -1,0 +1,10 @@
+CkptRecovery version 1.0.
+
+This project release is dated 16/4/2012.
+
+The restart module consists of:
+
+1) The main restart module - project.c
+2) The coredump of the num program, which prints numbers from 0 to 99 in a loop
+3) Supporting files common.c, error.c
+4) cron job shell scripts to checkpoint the processes
